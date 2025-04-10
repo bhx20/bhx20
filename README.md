@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--<!-- Profile Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=250&section=header&text=Hi%2C%20I%27m%20Sanket%20Kalathiya&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="Hi I'm Sanket Kalathiya banner" />
 </p>

@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=250&section=header&text=Hi%2C%20I%27m%20Sanket%20Kalathiya&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="Hi I'm Sanket Kalathiya banner" />
 </p>
 
-<h2 align="center">🚀 Software Engineer | 5+ Yrs | Android • iOS • Web</h2>
+<h2 align="center">🚀 Software Engineer | Android • iOS • Web</h2>
 
 <p align="center">
   Let's turn tea into scalable software | Passionate about clean architecture and creative solutions.

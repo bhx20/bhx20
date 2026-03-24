@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Thanks for visiting my GitHub profile! 😊
+Thanks for visiting my GitHub profile!
 
 - Check out my profile summary here: [https://profile-summary-for-github.com/user/bhx20](https://profile-summary-for-github.com/user/bhx20)
 - Reach me at: 📧 [sanketkalathiya201@gmail.com](mailto:sanketkalathiya201@gmail.com)
